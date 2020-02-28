@@ -13,5 +13,5 @@ It is a very simple flutter poject.
 # How it works
 ![alt text](https://github.com/shuvo009/medium_reader/blob/master/image.PNG "Logo Title Text 1")
 
-#To Do
-iOS support
+# To Do
+* iOS support
