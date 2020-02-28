@@ -89,7 +89,8 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Center(
           child: Text(
             "Please share a post from Medium app",
-            style: TextStyle(fontSize: 18),
+            textAlign: TextAlign.center,
+            style: TextStyle(fontSize: 28),
           ),
         ),
       ),
